@@ -1,4 +1,4 @@
-setwd("~/")
+
 housedata <- read.csv("~/AttD02C.tmp.csv")
 data = housedata
 
